@@ -1,4 +1,4 @@
-<h1>Repository about all the projects of Data Science</h1>
+<h1>Repository about all the projects of Data Science 📄</h1>
 <h3></h3>
 Project 1 - IRIS flower classification using KNN,SVM & Logistic Regression. Access 1.IRIS.csv & 2.ClassifyIRIS.ipynb for this project...<br>
 Project 2 - Unemployment Prediction in India<br>
